@@ -1,0 +1,2 @@
+if game.PlaceId == 8438158667 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/goodbyebeta/main/wbeta"))();
