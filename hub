@@ -2,5 +2,5 @@ if game.PlaceId == 8438158667 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/goodbyebeta/main/wbeta", true))()
 end;
 if game.PlaceId == 314927855 then
-     loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/pillowonyou/main/eck", true))()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/pillowonme/main/ueue", true))()
 end
