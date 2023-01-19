@@ -4,3 +4,5 @@ end;
 if game.PlaceId == 314927855 then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/pillowonme/main/ueue", true))()
 end
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/universalhub/main/anygame", true))()
