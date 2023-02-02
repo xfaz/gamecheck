@@ -14,8 +14,3 @@ end
 if game.PlaceId == 335760407 then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/tpsnew/main/newhb", true))()
 end
-
-wait(1)
-if game.PlaceId == 335760407 then
-     loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/tpsprem/main/uwu", true))()
-end
