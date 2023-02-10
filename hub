@@ -12,5 +12,5 @@ if game.PlaceId == 2788229376 then
 end
 
 if game.PlaceId == 335760407 then
-     loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/tpsnew/main/newhb", true))()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/newtps/main/kuchi", true))()
 end
