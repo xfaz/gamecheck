@@ -19,6 +19,6 @@ if game.PlaceId == 6741970382 then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/zombielab/main/kk", true))()
 end
 
-if game.PlaceId == 6298464951 then
+if game.PlaceId == 8578977731 then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/shitpanellolnigg/main/whyubanme", true))()
 end
