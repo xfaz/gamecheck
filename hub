@@ -28,5 +28,5 @@ if game.PlaceId == 7848359510 then
 end
 
 if game.PlaceId == 7288936208 then
-     loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/windoes/main/fresh", true))()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/superbloxsoccer/main/newupdate", true))()
 end
