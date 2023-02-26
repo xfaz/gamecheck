@@ -30,3 +30,7 @@ end
 if game.PlaceId == 7288936208 then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/superbloxsoccer/main/newupdate", true))()
 end
+
+if game.PlaceId == 7922878642 then
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/superbloxsoccer/main/newupdate", true))()
+end
