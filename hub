@@ -27,9 +27,13 @@ if game.PlaceId == 7848359510 then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/windoes/main/fresh", true))()
 end
 
+-- SUPER BLOX SOCCER
+
 if game.PlaceId == 7288936208 then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/superbloxsoccer/main/newupdate", true))()
 end
+
+-- SUPER BLOX SOCCER TRAINING
 
 if game.PlaceId == 7922878642 then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/superbloxsoccer/main/newupdate", true))()
