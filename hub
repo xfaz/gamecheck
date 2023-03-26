@@ -38,3 +38,11 @@ end
 if game.PlaceId == 7922878642 then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/superbloxsoccer/main/newupdate", true))()
 end
+
+if game.PlaceId == 7267631004 then
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/carrymygirl/main/extrame", true))()
+end
+
+if game.PlaceId == 1001315107 then
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/robets/main/kindaloser", true))()
+end
